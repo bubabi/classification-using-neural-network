@@ -76,11 +76,4 @@ Different activation functions, in fact, do have different properties. I use sof
 ##### 1.3.2 Epoch number effect
 As the number of epochs increases, more number of times the weight are changed in the neural network and the curve goes from underfitting to optimal to overfitting curve.
 
-|epoch|learning rate|batch size|accuracy|
-|--- |--- |--- |--- |
-|50|0.2|128|0.32|
-|100|0.2|128|0.35|
-|250|0.2|128|0.32|
-|500|0.2|128|0.31|
-
 _Please read the "report.ipynb" for Multi-Layer Neural Network._
